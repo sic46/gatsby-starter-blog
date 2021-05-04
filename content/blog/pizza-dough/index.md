@@ -1,5 +1,5 @@
 ---
-title: My First Recipe
+title: Pizza Dough
 date: "2020-02-03"
 description: Recipe for pizza dough for use in a wood fired pizza oven.
 ---
@@ -7,6 +7,8 @@ description: Recipe for pizza dough for use in a wood fired pizza oven.
 ## Pizza oven dough
 
 Standard dough for use in a wood fired pizza oven.
+
+![Pizza dough balls](./Pizza-Dough.jpg)
 
 ### Ingredients
 
