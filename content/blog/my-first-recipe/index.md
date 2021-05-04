@@ -4,18 +4,18 @@ date: "2020-02-03"
 description: Recipe for pizza dough for use in a wood fired pizza oven.
 ---
 
-# Pizza oven dough
+## Pizza oven dough
 
 Standard dough for use in a wood fired pizza oven.
 
-## Ingredients
+### Ingredients
 
 - flour
 - water
 - salt
 - yeast
 
-## Method
+### Method
 
 1. place yeast in water
 2. gradually add flour
