@@ -1,6 +1,6 @@
 ---
 title: My First Recipe
-date: "2020-05-1T10:00:32.169Z"
+date: "2020-02-03"
 description: Recipe for pizza dough for use in a wood fired pizza oven.
 ---
 
